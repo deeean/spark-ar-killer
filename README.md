@@ -1,2 +1,2 @@
 # spark-ar-killer
-This program using when Spark AR is not responding or memory leak.
+This program is used when Spark AR is not responding or memory leak.
